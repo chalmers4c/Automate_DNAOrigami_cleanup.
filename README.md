@@ -35,7 +35,12 @@ For the original method follow below
 ![image](https://github.com/chalmers4c/Automate_DNAOrigami_cleanup./assets/97460687/3e209a89-b9c3-4db6-a38b-e5c3b96167a1)
 
 # 3D print parts
+The 3D print parts .stl can be found in the thingiverse:
+
 https://www.thingiverse.com/thing:6624340
+
+Alternatively, here is the original FCStd file (designed with FreeCAD).
+
 You will also need the magnet for this part: https://www.first4magnets.com/rectangular-c35/5mm-x-5mm-x-2mm-thick-n35-neodymium-magnet-0-55kg-pull-p6223#ps_0_6418|ps_1_16694
 
 # Update log
