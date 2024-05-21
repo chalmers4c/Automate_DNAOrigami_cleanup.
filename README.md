@@ -30,6 +30,7 @@ For the original method follow below
 12. Wait for solution to become clear
 13. Aspirate the solution to a PCR tube
 14. Run a thermal declump cycle as follow:
+
 ![image](https://github.com/chalmers4c/Automate_DNAOrigami_cleanup./assets/97460687/3e209a89-b9c3-4db6-a38b-e5c3b96167a1)
 
 # 3D print parts
