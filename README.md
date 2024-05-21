@@ -12,6 +12,7 @@ elution buffer of your choice (the buffer that you would like your structure to 
 
 # Method
 ![image](https://github.com/chalmers4c/Automate_DNAOrigami_cleanup./assets/97460687/5072986a-6536-42ed-a95c-2da0189e2537)
+
 The image shows the general outline of the protocol.
 We recommend you to dilute the folded sample, if not already at, to 100 ul before you start the method.
 
