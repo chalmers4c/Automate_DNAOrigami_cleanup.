@@ -2,13 +2,13 @@
 To share information related to the publication: Automated Purification of DNA Origami with SPRI Beads: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202308776. Below you can find relevant vendor information and materials that you will need for this method to be carried out.
 
 # Materials
-SPRI beads (Ampure XP equivalent), we are using this: https://www.magbiogenomics.com/highprep-pcr.html
-Eppendorf 1.5 ml
-PCR tubes
-Your origami samples after folding
-80% (v/v) ethanol
-Magnetic rack (see below for the 3D prints part)
-elution buffer of your choice (the buffer that you would like your structure to be in)
+- SPRI beads (Ampure XP equivalent), we are using this: https://www.magbiogenomics.com/highprep-pcr.html
+- Eppendorf 1.5 ml
+- PCR tubes
+- Your origami samples after folding
+- 80% (v/v) ethanol
+- Magnetic rack (see below for the 3D prints part)
+- elution buffer of your choice (the buffer that you would like your structure to be in)
 
 # Method
 ![image](https://github.com/chalmers4c/Automate_DNAOrigami_cleanup./assets/97460687/5072986a-6536-42ed-a95c-2da0189e2537)
